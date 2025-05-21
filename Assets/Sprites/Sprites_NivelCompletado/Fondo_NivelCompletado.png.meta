@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 29e0cdff7133c9f45af5fce772df240a
+guid: 869bb546efce2e745a666e36e9b548a6
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 7125345681437259633
-    second: Btn_Salir_0
+      213: 7648344071254293391
+    second: Fondo_NivelCompletado_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Btn_Salir_0
+      name: Fondo_NivelCompletado_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 3
-        width: 276
-        height: 197
+        x: 0
+        y: 0
+        width: 1916
+        height: 1076
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1777ee3452052e260800000000000000
-      internalID: 7125345681437259633
+      spriteID: f8bb31ff860642a60800000000000000
+      internalID: 7648344071254293391
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Btn_Salir_0: 7125345681437259633
+      Fondo_NivelCompletado_0: 7648344071254293391
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

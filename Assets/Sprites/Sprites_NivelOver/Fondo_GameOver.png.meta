@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 47657f59ee7fc09429f2a79d1bc69351
+guid: aa80425519b01fb45b132c3e3ed8420c
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -9212131379390750081
-    second: Titulo_Niveles_0
+      213: -2989835938439628935
+    second: Fondo_GameOver_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Titulo_Niveles_0
+      name: Fondo_GameOver_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 33
-        width: 1015
-        height: 233
+        y: 0
+        width: 1915
+        height: 1073
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f726f23815fe72080800000000000000
-      internalID: -9212131379390750081
+      spriteID: 977fb980e08f186d0800000000000000
+      internalID: -2989835938439628935
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Titulo_Niveles_0: -9212131379390750081
+      Fondo_GameOver_0: -2989835938439628935
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

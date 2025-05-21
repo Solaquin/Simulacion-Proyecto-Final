@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aa80425519b01fb45b132c3e3ed8420c
+guid: b0664fc79419db14aaea184b1d99a8be
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2989835938439628935
-    second: Fondo_GameOver_0
+      213: -4987774820186886801
+    second: Btn_Atras_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fondo_GameOver_0
+      name: Btn_Atras_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1915
-        height: 1073
+        width: 257
+        height: 190
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 977fb980e08f186d0800000000000000
-      internalID: -2989835938439628935
+      spriteID: f6d6f173a3dd7cab0800000000000000
+      internalID: -4987774820186886801
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fondo_GameOver_0: -2989835938439628935
+      Btn_Atras_0: -4987774820186886801
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

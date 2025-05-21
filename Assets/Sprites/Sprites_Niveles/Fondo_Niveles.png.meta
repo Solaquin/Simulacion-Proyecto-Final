@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: b0664fc79419db14aaea184b1d99a8be
+guid: 26eff35542a59af48926718f838a6060
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -4987774820186886801
-    second: Btn_Atras_0
+      213: -1693609666545589393
+    second: Fondo_Niveles_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Btn_Atras_0
+      name: Fondo_Niveles_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 257
-        height: 190
+        width: 1919
+        height: 1082
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f6d6f173a3dd7cab0800000000000000
-      internalID: -4987774820186886801
+      spriteID: f63e16d3bf61f78e0800000000000000
+      internalID: -1693609666545589393
       vertices: []
       indices: 
       edges: []
@@ -135,7 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Btn_Atras_0: -4987774820186886801
+      Fondo_Niveles_0: -1693609666545589393
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,13 @@
 fileFormatVersion: 2
-guid: 67487ecee6be0af489841045c6eb9389
+guid: 762f4ba33452d0f45a4005a725205ef7
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1155011356934332777
-    second: Btn_SiguienteNivel_0
+      213: 6680050650163475411
+    second: Titulo_0
+  - first:
+      213: -8703404932657416651
+    second: Titulo_1
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -96,17 +99,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Btn_SiguienteNivel_0
+      name: Titulo_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 3
-        width: 617
-        height: 197
+        x: 1
+        y: 37
+        width: 826
+        height: 274
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +131,30 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 79e13665a4398ffe0800000000000000
-      internalID: -1155011356934332777
+      spriteID: 3d37c948cae44bc50800000000000000
+      internalID: 6680050650163475411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Titulo_1
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 74
+        width: 781
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 536729c835b473780800000000000000
+      internalID: -8703404932657416651
       vertices: []
       indices: 
       edges: []
@@ -135,7 +173,8 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Btn_SiguienteNivel_0: -1155011356934332777
+      Titulo_0: 6680050650163475411
+      Titulo_1: -8703404932657416651
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

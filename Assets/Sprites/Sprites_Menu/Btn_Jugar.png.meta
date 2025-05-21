@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: deaae02ffab897346881954501d26e04
+guid: 16d6051f4ff12dc419910650fc53544b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6126615830426713942
-    second: Angry_Food_0
-  - first:
-      213: 2651207291510240363
-    second: Angry_Food_1
+      213: 459490932030904396
+    second: Btn_Jugar_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -40,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -49,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -78,7 +75,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -99,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Angry_Food_0
+      name: Btn_Jugar_0
       rect:
         serializedVersion: 2
-        x: 2
-        y: 52
-        width: 567
-        height: 152
+        x: 0
+        y: 0
+        width: 635
+        height: 248
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 65f7ed733ac160550800000000000000
-      internalID: 6126615830426713942
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Angry_Food_1
-      rect:
-        serializedVersion: 2
-        x: 569
-        y: 52
-        width: 442
-        height: 152
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: b64b4642cfafac420800000000000000
-      internalID: 2651207291510240363
+      spriteID: c4817357190706600800000000000000
+      internalID: 459490932030904396
       vertices: []
       indices: 
       edges: []
@@ -150,7 +138,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 5e97eb03825dee720800000000000000
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -160,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Angry_Food_0: 6126615830426713942
-      Angry_Food_1: 2651207291510240363
+      Btn_Jugar_0: 459490932030904396
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

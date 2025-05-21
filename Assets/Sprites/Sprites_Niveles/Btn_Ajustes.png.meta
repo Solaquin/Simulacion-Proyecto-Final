@@ -1,13 +1,10 @@
 fileFormatVersion: 2
-guid: 45dc5718cbf74cf41b130f3c3c9bf780
+guid: e482d3806da06f549be68f71291ecb9b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4710855828298075954
-    second: Felicitaciones_0
-  - first:
-      213: -8921457372418371307
-    second: Felicitaciones_1
+      213: -4895651120616963104
+    second: Btn_Ajustes_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -99,17 +96,30 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Felicitaciones_0
+      name: Btn_Ajustes_0
       rect:
         serializedVersion: 2
-        x: 1
-        y: 37
-        width: 701
-        height: 271
+        x: 0
+        y: 0
+        width: 148
+        height: 132
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -118,30 +128,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 23f09c9aa62506140800000000000000
-      internalID: 4710855828298075954
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Felicitaciones_1
-      rect:
-        serializedVersion: 2
-        x: 740
-        y: 74
-        width: 966
-        height: 237
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5119636a9cd903480800000000000000
-      internalID: -8921457372418371307
+      spriteID: 0e3026b7e372f0cb0800000000000000
+      internalID: -4895651120616963104
       vertices: []
       indices: 
       edges: []
@@ -160,8 +148,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Felicitaciones_0: 4710855828298075954
-      Felicitaciones_1: -8921457372418371307
+      Btn_Ajustes_0: -4895651120616963104
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
