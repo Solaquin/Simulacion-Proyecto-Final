@@ -12,12 +12,13 @@ public class CollisionHandler : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        hitBoxes = FindObjectsByType<HitBox>(FindObjectsSortMode.None).ToList();
+        
     }
 
     // Update is called once per frame
     void FixedUpdate()
     {
+        hitBoxes = FindObjectsByType<HitBox>(FindObjectsSortMode.None).ToList();
         ResolveHitBoxCollisions();
     }
 
