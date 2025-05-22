@@ -9,6 +9,7 @@ public class ParticleMovement : MonoBehaviour
     public Vector2 velocity = Vector2.zero;
 
     [SerializeField] private float g = 9.81f, c = 1.5f;
+    public bool isStatic = false;
 
     private Vector2 position;
 
@@ -20,6 +21,10 @@ public class ParticleMovement : MonoBehaviour
     }
     void FixedUpdate()
     {
+        if (isStatic) return;
+
+        position = transform.position;
+            
         // Aplica gravedad y fricción lineal
         velocity.x += (-(c / mass) * velocity.x) * Time.fixedDeltaTime;
         velocity.y += (-g - (c / mass) * velocity.y) * Time.fixedDeltaTime;
