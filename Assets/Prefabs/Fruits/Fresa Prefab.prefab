@@ -12,9 +12,10 @@ GameObject:
   - component: {fileID: 3143028766638579542}
   - component: {fileID: 5777106290581926110}
   - component: {fileID: 5641027351270620109}
+  - component: {fileID: 2530053967832503184}
   m_Layer: 0
-  m_Name: Circle
-  m_TagString: Untagged
+  m_Name: Fresa Prefab
+  m_TagString: Fruits
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -78,7 +79,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: -2413806693520163455, guid: a86470a33a6bf42c4b3595704624658b, type: 3}
+  m_Sprite: {fileID: 6560938589418888938, guid: 92f52a4e014002a4d9871a020576d95c, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -102,7 +103,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   mass: 1
-  velocity: {x: 2, y: 1}
+  velocity: {x: 0, y: 0}
   g: 9.81
   c: 1
   isStatic: 0
@@ -119,6 +120,28 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitBoxType: 0
-  center: {x: 0, y: 0}
-  radius: 0.5
+  center: {x: 0, y: -0.09}
+  radius: 0.41
   size: {x: 1, y: 1}
+--- !u!95 &2530053967832503184
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923594217781096001}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: e4d9e0b20369b9647a3d377ef95fc9ad, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
