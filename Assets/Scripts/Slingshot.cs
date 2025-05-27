@@ -2,7 +2,8 @@ using UnityEngine;
 
 public class Slingshot : MonoBehaviour
 {
-    public GameObject[] fruitPrefab;
+    public FruitsLevelHandler levelHandler;
+    public LevelCompleted levelCompletedHandler;
     public float fuerzaMultiplicadora = 10f;
     public float maxDragDistance = 3f;
 
@@ -12,6 +13,7 @@ public class Slingshot : MonoBehaviour
 
     private Animator animator;
     private Vector2 dragStart, dragEnd;
+    private GameObject fruitPrefab;
 
     private void Start()
     {
@@ -20,6 +22,11 @@ public class Slingshot : MonoBehaviour
 
     void Update()
     {
+        if (levelHandler.isGameOver || levelCompletedHandler.isLevelCompleted) return;
+
+        
+        fruitPrefab = levelHandler.GetRandomFruitPrefab();
+
         if (Input.GetMouseButtonDown(0))
         {
             dragStart = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -45,12 +52,13 @@ public class Slingshot : MonoBehaviour
             animator.SetBool("isLaunching", false);
             LaunchFruit(velocity);
             preview.HideTrajectory();
+            levelHandler.numOfFruitsLeft--;
         }
     }
 
     void LaunchFruit(Vector2 velocity)
     {
-        GameObject fruit = Instantiate(fruitPrefab[0], point.transform.position, Quaternion.identity);
+        GameObject fruit = Instantiate(fruitPrefab, point.transform.position, Quaternion.identity);
         cameraFollow.target = fruit.transform;
         cameraFollow.offset = new Vector2(0, 0);
         ParticleMovement movement = fruit.GetComponent<ParticleMovement>();

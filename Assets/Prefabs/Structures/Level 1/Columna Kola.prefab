@@ -106,6 +106,7 @@ MonoBehaviour:
   center: {x: 0, y: 0}
   radius: 1
   size: {x: 1.33, y: 4}
+  isTrigger: 0
 --- !u!95 &8103688971657977106
 Animator:
   serializedVersion: 7

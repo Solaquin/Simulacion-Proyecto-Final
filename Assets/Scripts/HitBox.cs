@@ -16,6 +16,8 @@ public class HitBox : MonoBehaviour
 
     public Vector2 size = new Vector2(1f, 1f); //Para Rectángulos
 
+    public bool isTrigger = false;
+
     public event Action<HitBox> OnCollisionEnterCustom;
 
     public void TriggerCollisionEvent(HitBox other)

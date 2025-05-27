@@ -30,6 +30,7 @@ public class StructuresBehaviour : MonoBehaviour
         if (other.CompareTag("Fruits"))
         {
             numHits++;
+            print(other.name + " hit " + gameObject.name + ", total hits: " + numHits);
             if (numHits < maxHits)
             {
                 animator.SetBool("Collide", true);

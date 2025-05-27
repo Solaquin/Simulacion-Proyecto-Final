@@ -89,6 +89,13 @@ public class CollisionHandler : MonoBehaviour
                     ParticleMovement moveA = (moveAComponent != null && !moveAComponent.isStatic) ? moveAComponent : null;
                     ParticleMovement moveB = (moveBComponent != null && !moveBComponent.isStatic) ? moveBComponent : null;
 
+                    if (a.isTrigger || b.isTrigger) //Si alguno es un trigger, no resolver física, activar eventos
+                    {
+                        a.TriggerCollisionEvent(b);
+                        b.TriggerCollisionEvent(a);
+                        continue;
+                    }
+
                     if (moveA == null && moveB == null) continue; // Si ninguno tiene movimiento, no hacer nada
 
 

@@ -1,6 +1,6 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using System.Collections; // <- ¡Este es obligatorio para IEnumerator!
+using System.Collections; 
 
 public class SceneTransition : MonoBehaviour
 {
