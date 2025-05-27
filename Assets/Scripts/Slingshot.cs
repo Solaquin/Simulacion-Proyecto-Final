@@ -8,14 +8,22 @@ public class Slingshot : MonoBehaviour
 
     public TrajectoryPreview preview;
     public FollowTarget cameraFollow;
+    public GameObject point;
 
+    private Animator animator;
     private Vector2 dragStart, dragEnd;
+
+    private void Start()
+    {
+        animator = GetComponent<Animator>();
+    }
 
     void Update()
     {
         if (Input.GetMouseButtonDown(0))
         {
             dragStart = Camera.main.ScreenToWorldPoint(Input.mousePosition);
+            animator.SetBool("isLaunching", true);
         }
 
         if (Input.GetMouseButton(0))
@@ -25,7 +33,7 @@ public class Slingshot : MonoBehaviour
             Vector2 clamped = Vector2.ClampMagnitude(rawForce, maxDragDistance);
             Vector2 velocity = clamped * fuerzaMultiplicadora;
 
-            preview.ShowTrajectory(transform.position, velocity);
+            preview.ShowTrajectory(point.transform.position, velocity);
         }
 
         if (Input.GetMouseButtonUp(0))
@@ -34,7 +42,7 @@ public class Slingshot : MonoBehaviour
             Vector2 rawForce = dragStart - dragEnd;
             Vector2 clamped = Vector2.ClampMagnitude(rawForce, maxDragDistance);
             Vector2 velocity = clamped * fuerzaMultiplicadora;
-
+            animator.SetBool("isLaunching", false);
             LaunchFruit(velocity);
             preview.HideTrajectory();
         }
@@ -42,10 +50,10 @@ public class Slingshot : MonoBehaviour
 
     void LaunchFruit(Vector2 velocity)
     {
-        GameObject bird = Instantiate(fruitPrefab[0], transform.position, Quaternion.identity);
-        cameraFollow.target = bird.transform;
+        GameObject fruit = Instantiate(fruitPrefab[0], point.transform.position, Quaternion.identity);
+        cameraFollow.target = fruit.transform;
         cameraFollow.offset = new Vector2(0, 0);
-        ParticleMovement movement = bird.GetComponent<ParticleMovement>();
+        ParticleMovement movement = fruit.GetComponent<ParticleMovement>();
         movement.velocity = velocity;
     }
 }

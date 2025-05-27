@@ -1,0 +1,408 @@
+fileFormatVersion: 2
+guid: b2e37c3198cddb34da3cc05ef1a3ecce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6698806872530756003
+    second: columna chocolate colision_0
+  - first:
+      213: -4166860847369356300
+    second: columna chocolate colision_1
+  - first:
+      213: 2163548373315436715
+    second: columna chocolate colision_2
+  - first:
+      213: 3425862248386062633
+    second: columna chocolate colision_3
+  - first:
+      213: -995773094253092092
+    second: columna chocolate colision_4
+  - first:
+      213: 1645321131587382341
+    second: columna chocolate colision_5
+  - first:
+      213: 680350816409128872
+    second: columna chocolate colision_6
+  - first:
+      213: 6025025649951739517
+    second: columna chocolate colision_7
+  - first:
+      213: 5339044466924609850
+    second: columna chocolate colision_8
+  - first:
+      213: 2450867706719656146
+    second: columna chocolate colision_9
+  - first:
+      213: 4840033112952273159
+    second: columna chocolate colision_10
+  - first:
+      213: 3933427304826377270
+    second: columna chocolate colision_11
+  - first:
+      213: 6122227654378170931
+    second: columna chocolate colision_12
+  - first:
+      213: -7229518121892299476
+    second: columna chocolate colision_13
+  - first:
+      213: 3392511941679537839
+    second: columna chocolate colision_14
+  - first:
+      213: 7305309429748895935
+    second: columna chocolate colision_15
+  - first:
+      213: -1801521740882185004
+    second: columna chocolate colision_16
+  - first:
+      213: -1164452161267485994
+    second: columna chocolate colision_17
+  - first:
+      213: -2993490344103289734
+    second: columna chocolate colision_18
+  - first:
+      213: 8643404059329975246
+    second: columna chocolate colision_19
+  - first:
+      213: 7424321023938179204
+    second: columna chocolate colision_20
+  - first:
+      213: 396591790429501644
+    second: columna chocolate colision_21
+  - first:
+      213: 4999239303460806357
+    second: columna chocolate colision_22
+  - first:
+      213: -4163312194890707898
+    second: columna chocolate colision_23
+  - first:
+      213: 4266689338905276875
+    second: columna chocolate colision_24
+  - first:
+      213: -8654188718165409266
+    second: columna chocolate colision_25
+  - first:
+      213: 2091159802916515286
+    second: columna chocolate colision_26
+  - first:
+      213: -9194353730476532024
+    second: columna chocolate colision_27
+  - first:
+      213: -5947899939567586042
+    second: columna chocolate colision_28
+  - first:
+      213: 6030103226237489679
+    second: columna chocolate colision_29
+  - first:
+      213: -4735211565777639008
+    second: columna chocolate colision_30
+  - first:
+      213: 1696529875528233812
+    second: columna chocolate colision_31
+  - first:
+      213: 4072832868408384077
+    second: columna chocolate colision_32
+  - first:
+      213: 5929121754390581296
+    second: columna chocolate colision_33
+  - first:
+      213: 1050776169435086166
+    second: columna chocolate colision_34
+  - first:
+      213: -5649576231342623101
+    second: columna chocolate colision_35
+  - first:
+      213: -5569969713652639756
+    second: columna chocolate colision_36
+  - first:
+      213: -6507736653460987709
+    second: columna chocolate colision_37
+  - first:
+      213: -7884233040149978530
+    second: columna chocolate colision_38
+  - first:
+      213: 4018971326855981519
+    second: columna chocolate colision_39
+  - first:
+      213: -5581771995757685506
+    second: columna chocolate colision_40
+  - first:
+      213: 1426130278748440370
+    second: columna chocolate colision_41
+  - first:
+      213: -6140485581142032930
+    second: columna chocolate colision_42
+  - first:
+      213: 4803738130823247712
+    second: columna chocolate colision_43
+  - first:
+      213: -7610162577292822712
+    second: columna chocolate colision_44
+  - first:
+      213: -3987922329264558675
+    second: columna chocolate colision_45
+  - first:
+      213: -9205445627295334951
+    second: columna chocolate colision_46
+  - first:
+      213: -190439970276876714
+    second: columna chocolate colision_47
+  - first:
+      213: 3304991350659633949
+    second: columna chocolate colision_48
+  - first:
+      213: -7035725992887597886
+    second: columna chocolate colision_49
+  - first:
+      213: 576877644901514319
+    second: columna chocolate colision_50
+  - first:
+      213: 4898747905719173955
+    second: columna chocolate colision_51
+  - first:
+      213: -660160864597382892
+    second: columna chocolate colision_52
+  - first:
+      213: 6021830813290314492
+    second: columna chocolate colision_53
+  - first:
+      213: 6867514490906563513
+    second: columna chocolate colision_54
+  - first:
+      213: 7674280643428601972
+    second: columna chocolate colision_55
+  - first:
+      213: -2498257222188773927
+    second: columna chocolate colision_56
+  - first:
+      213: 6898483688418835875
+    second: columna chocolate colision_57
+  - first:
+      213: -7302088349596572936
+    second: columna chocolate colision_58
+  - first:
+      213: 338061120848557245
+    second: columna chocolate colision_59
+  - first:
+      213: -4177181440001354617
+    second: columna chocolate colision_60
+  - first:
+      213: 7320881429851413055
+    second: columna chocolate colision_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: columna chocolate colision_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5edbd724ae0903a0800000000000000
+      internalID: -6698806872530756003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columna chocolate colision_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbf014e2265c26c0800000000000000
+      internalID: -4166860847369356300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columna chocolate colision_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba047d558c7760e10800000000000000
+      internalID: 2163548373315436715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columna chocolate colision_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929e87c509b1b8f20800000000000000
+      internalID: 3425862248386062633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 7bd9a59225ad4824ca4456b0ac890b54
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      columna chocolate colision_0: -6698806872530756003
+      columna chocolate colision_1: -4166860847369356300
+      columna chocolate colision_2: 2163548373315436715
+      columna chocolate colision_3: 3425862248386062633
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

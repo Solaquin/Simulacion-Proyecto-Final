@@ -69,7 +69,6 @@ public class CollisionHandler : MonoBehaviour
                Mathf.Abs(centerA.y - centerB.y) <= (halfSizeA.y + halfSizeB.y);
     }
 
-
     void ResolveHitBoxCollisions()
     {
 
@@ -91,9 +90,6 @@ public class CollisionHandler : MonoBehaviour
                     ParticleMovement moveB = (moveBComponent != null && !moveBComponent.isStatic) ? moveBComponent : null;
 
                     if (moveA == null && moveB == null) continue; // Si ninguno tiene movimiento, no hacer nada
-                    print($"Colisión entre {a.name} y {b.name}");
-                    print($"ParticleMovement A: {moveA}");
-                    print($"ParticleMovement B: {moveB}");
 
 
                     if ((moveA != null && moveB != null))
@@ -172,6 +168,10 @@ public class CollisionHandler : MonoBehaviour
                         b.transform.position += (Vector3)correction;
                         print("case 3");
                     }
+
+                    // Llamar al evento de colisión
+                    a.TriggerCollisionEvent(b);
+                    b.TriggerCollisionEvent(a);
                 }
             }
         }

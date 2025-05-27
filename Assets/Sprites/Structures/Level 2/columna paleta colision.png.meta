@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: 8178dbf5e587e894391fa84117469f1d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6325934157575213096
+    second: columna paleta colision_0
+  - first:
+      213: -2089061307454123138
+    second: columna paleta colision_1
+  - first:
+      213: -5747112576783425324
+    second: columna paleta colision_2
+  - first:
+      213: -6150479878848528041
+    second: columna paleta colision_3
+  - first:
+      213: -2479031020788934071
+    second: columna paleta colision_4
+  - first:
+      213: -3267981990964027199
+    second: columna paleta colision_5
+  - first:
+      213: 2565596420829323459
+    second: columna paleta colision_6
+  - first:
+      213: -1576040280304474863
+    second: columna paleta colision_7
+  - first:
+      213: -7299782815060702478
+    second: columna paleta colision_8
+  - first:
+      213: 2528419078880540098
+    second: columna paleta colision_9
+  - first:
+      213: 1924637316741969624
+    second: columna paleta colision_10
+  - first:
+      213: -3658055598150254379
+    second: columna paleta colision_11
+  - first:
+      213: -2231716646578682421
+    second: columna paleta colision_12
+  - first:
+      213: 721659186804192917
+    second: columna paleta colision_13
+  - first:
+      213: 4256316753785314484
+    second: columna paleta colision_14
+  - first:
+      213: -5862361751791775275
+    second: columna paleta colision_15
+  - first:
+      213: 5454691530223123268
+    second: columna paleta colision_16
+  - first:
+      213: 4408783326044900207
+    second: columna paleta colision_17
+  - first:
+      213: 2908028925711345024
+    second: columna paleta colision_18
+  - first:
+      213: 6650352889769221649
+    second: columna paleta colision_19
+  - first:
+      213: -2167036918010746849
+    second: columna paleta colision_20
+  - first:
+      213: -5432747483079743402
+    second: columna paleta colision_21
+  - first:
+      213: 6074296319768735144
+    second: columna paleta colision_22
+  - first:
+      213: 7504873198492257027
+    second: columna paleta colision_23
+  - first:
+      213: 4317133368114869867
+    second: columna paleta colision_24
+  - first:
+      213: -5083395239027523670
+    second: columna paleta colision_25
+  - first:
+      213: 2176320502555642710
+    second: columna paleta colision_26
+  - first:
+      213: -2604135359002121128
+    second: columna paleta colision_27
+  - first:
+      213: -3248421320138130086
+    second: columna paleta colision_28
+  - first:
+      213: -8512934156127541027
+    second: columna paleta colision_29
+  - first:
+      213: 1291833215665191748
+    second: columna paleta colision_30
+  - first:
+      213: 4000757853390856280
+    second: columna paleta colision_31
+  - first:
+      213: -2448049809891444522
+    second: columna paleta colision_32
+  - first:
+      213: 4727675277261414419
+    second: columna paleta colision_33
+  - first:
+      213: -6067316298086957453
+    second: columna paleta colision_34
+  - first:
+      213: -1364196019530159597
+    second: columna paleta colision_35
+  - first:
+      213: -3389865739821005410
+    second: columna paleta colision_36
+  - first:
+      213: -4019445331901032325
+    second: columna paleta colision_37
+  - first:
+      213: 4642886756182546292
+    second: columna paleta colision_38
+  - first:
+      213: 3077128982426128308
+    second: columna paleta colision_39
+  - first:
+      213: -6383707405531776845
+    second: columna paleta colision_40
+  - first:
+      213: -7843057928586252584
+    second: columna paleta colision_41
+  - first:
+      213: 3912146269915202258
+    second: columna paleta colision_42
+  - first:
+      213: -1080979685330250164
+    second: columna paleta colision_43
+  - first:
+      213: 6547354061155858772
+    second: columna paleta colision_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: columna paleta colision_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820d7ce999b3ac750800000000000000
+      internalID: 6325934157575213096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columna paleta colision_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e731f272fc92203e0800000000000000
+      internalID: -2089061307454123138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columna paleta colision_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0e4a89f872e30b0800000000000000
+      internalID: -5747112576783425324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: columna paleta colision_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751cb07032b15aaa0800000000000000
+      internalID: -6150479878848528041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: b14d8b282b12b584b9ecaf441ecc8095
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      columna paleta colision_0: 6325934157575213096
+      columna paleta colision_1: -2089061307454123138
+      columna paleta colision_2: -5747112576783425324
+      columna paleta colision_3: -6150479878848528041
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

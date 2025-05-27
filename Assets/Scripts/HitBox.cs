@@ -1,3 +1,4 @@
+using System;
 using UnityEngine;
 
 public enum HitBoxType
@@ -11,9 +12,16 @@ public class HitBox : MonoBehaviour
     public HitBoxType hitBoxType;
 
     public Vector2 center;
-    public float radius = 1f;
+    public float radius = 1f; //Para Circulos
 
-    public Vector2 size = new Vector2(1f, 1f);
+    public Vector2 size = new Vector2(1f, 1f); //Para Rectángulos
+
+    public event Action<HitBox> OnCollisionEnterCustom;
+
+    public void TriggerCollisionEvent(HitBox other)
+    {
+        OnCollisionEnterCustom?.Invoke(other);
+    }
 
     private void OnDrawGizmos()
     {
