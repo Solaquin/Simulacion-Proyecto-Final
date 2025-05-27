@@ -8,6 +8,7 @@ TagManager:
   - Enemys
   - Structure
   - Floor
+  - Slingshot
   layers:
   - Default
   - TransparentFX

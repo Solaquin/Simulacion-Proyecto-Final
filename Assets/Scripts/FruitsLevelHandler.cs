@@ -1,4 +1,6 @@
+using System.Collections;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class FruitsLevelHandler : MonoBehaviour
 {
@@ -8,9 +10,11 @@ public class FruitsLevelHandler : MonoBehaviour
 
     public bool isGameOver = false;
     public Canvas gameOverCanvas;
+    public Image fruitImage;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        gameOverCanvas.gameObject.SetActive(false);
         numOfFruitsLeft = maxNumOfFruits;
     }
 
@@ -19,7 +23,7 @@ public class FruitsLevelHandler : MonoBehaviour
         if(numOfFruitsLeft <= 0)
         {
             isGameOver = true;
-            // Poner Game Over Canvas
+            StartCoroutine(activeCanvasBeforeDelay(1.5f));
             Debug.Log("All fruits have been used.");
         }
     }
@@ -27,6 +31,20 @@ public class FruitsLevelHandler : MonoBehaviour
     {
         if (fruitsPrefab.Length == 0) return null;
         return fruitsPrefab[Random.Range(0, fruitsPrefab.Length)];
+    }
+
+    public void SetFruitImage(Sprite fruitSprite)
+    {
+        if (fruitImage != null)
+        {
+            fruitImage.sprite = fruitSprite;
+        }
+    }
+
+    public IEnumerator activeCanvasBeforeDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        gameOverCanvas.gameObject.SetActive(true);
     }
 
 }

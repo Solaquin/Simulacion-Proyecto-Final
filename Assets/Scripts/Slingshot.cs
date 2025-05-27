@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class Slingshot : MonoBehaviour
@@ -8,24 +9,27 @@ public class Slingshot : MonoBehaviour
     public float maxDragDistance = 3f;
 
     public TrajectoryPreview preview;
-    public FollowTarget cameraFollow;
     public GameObject point;
+    public FollowTarget followTarget;    
 
     private Animator animator;
     private Vector2 dragStart, dragEnd;
-    private GameObject fruitPrefab;
+    private GameObject currentFruitPrefab;
+    private bool canLaunch = true;
+
 
     private void Start()
     {
         animator = GetComponent<Animator>();
+
+        currentFruitPrefab = levelHandler.GetRandomFruitPrefab(); // inicial
+        levelHandler.SetFruitImage(currentFruitPrefab.GetComponent<SpriteRenderer>().sprite);
     }
 
     void Update()
     {
         if (levelHandler.isGameOver || levelCompletedHandler.isLevelCompleted) return;
-
-        
-        fruitPrefab = levelHandler.GetRandomFruitPrefab();
+        if (!canLaunch) return;
 
         if (Input.GetMouseButtonDown(0))
         {
@@ -53,15 +57,28 @@ public class Slingshot : MonoBehaviour
             LaunchFruit(velocity);
             preview.HideTrajectory();
             levelHandler.numOfFruitsLeft--;
+            canLaunch = false;
+
         }
     }
 
     void LaunchFruit(Vector2 velocity)
     {
-        GameObject fruit = Instantiate(fruitPrefab, point.transform.position, Quaternion.identity);
-        cameraFollow.target = fruit.transform;
-        cameraFollow.offset = new Vector2(0, 0);
+        GameObject fruit = Instantiate(currentFruitPrefab, point.transform.position, Quaternion.identity);
+        followTarget.currentTarget = fruit.transform;
+        followTarget.currentOffset = new Vector2(0, 0);
         ParticleMovement movement = fruit.GetComponent<ParticleMovement>();
         movement.velocity = velocity;
+
+        currentFruitPrefab = levelHandler.GetRandomFruitPrefab();
+        levelHandler.SetFruitImage(currentFruitPrefab.GetComponent<SpriteRenderer>().sprite);
     }
+    public void NotifyFruitDestroyed()
+    {
+        if (!canLaunch)
+        {
+            canLaunch = true;
+        }
+    }
+
 }

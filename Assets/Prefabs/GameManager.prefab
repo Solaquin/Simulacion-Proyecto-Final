@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5013794140787821098
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3745651182942228460}
+  - component: {fileID: 3613905134178627942}
+  - component: {fileID: 1473604332049695320}
+  - component: {fileID: 2761940033095198334}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3745651182942228460
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5013794140787821098}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.3181086, y: -1.7568535, z: -0.38543114}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3613905134178627942
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5013794140787821098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a16ae72ad8c4ea641a857b25bcca1626, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  fruitsPrefab:
+  - {fileID: 1923594217781096001, guid: a62b20c161263154bb74557cff701dc4, type: 3}
+  - {fileID: 1923594217781096001, guid: aec40b8acb629cb4999846c4f085a042, type: 3}
+  - {fileID: 1923594217781096001, guid: 5bc6fa02c9cd4074a8a30b1eb0d7d8c3, type: 3}
+  maxNumOfFruits: 5
+  numOfFruitsLeft: 0
+  isGameOver: 0
+  gameOverCanvas: {fileID: 0}
+--- !u!114 &1473604332049695320
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5013794140787821098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94182f4a4c86ac647843f416dce28934, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isLevelCompleted: 0
+  levelPassedCanvas: {fileID: 0}
+--- !u!114 &2761940033095198334
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5013794140787821098}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bb9f7e1ad3ddd4a8567d2e06efdaad, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  canva: {fileID: 0}
+  sceneManager: {fileID: 0}

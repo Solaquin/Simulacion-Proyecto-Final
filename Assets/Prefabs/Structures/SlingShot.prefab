@@ -47,7 +47,7 @@ GameObject:
   - component: {fileID: 3350613394184112378}
   m_Layer: 0
   m_Name: SlingShot
-  m_TagString: Untagged
+  m_TagString: Slingshot
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -135,15 +135,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a3cc1020d3caae4c9b0161e28a368f1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  fruitPrefab:
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  levelHandler: {fileID: 0}
+  levelCompletedHandler: {fileID: 0}
   fuerzaMultiplicadora: 10
   maxDragDistance: 3
   preview: {fileID: 4802780032539486123}
-  cameraFollow: {fileID: 0}
   point: {fileID: 560650975649471196}
+  followTarget: {fileID: 0}
 --- !u!114 &4802780032539486123
 MonoBehaviour:
   m_ObjectHideFlags: 0

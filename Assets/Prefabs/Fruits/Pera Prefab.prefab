@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 5777106290581926110}
   - component: {fileID: 5641027351270620109}
   - component: {fileID: 2530053967832503184}
+  - component: {fileID: -5573854799315606305}
   m_Layer: 0
   m_Name: Pera Prefab
   m_TagString: Fruits
@@ -123,6 +124,7 @@ MonoBehaviour:
   center: {x: 0, y: -0.06}
   radius: 0.44
   size: {x: 1, y: 1}
+  isTrigger: 0
 --- !u!95 &2530053967832503184
 Animator:
   serializedVersion: 7
@@ -145,3 +147,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-5573854799315606305
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1923594217781096001}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0bc4134e368ff184ebfaa67898d297b1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

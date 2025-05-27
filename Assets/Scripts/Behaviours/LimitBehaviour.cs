@@ -5,7 +5,6 @@ public class LimitBehaviour : MonoBehaviour
 {
     private HitBox hitBox;
     public FollowTarget followTarget;
-    public GameObject slingShot;
 
 
     void Awake()
@@ -28,7 +27,6 @@ public class LimitBehaviour : MonoBehaviour
         if (other.CompareTag("Fruits"))
         {
             Destroy(other.gameObject);
-            followTarget.target = slingShot.transform;
         }
     }
 }

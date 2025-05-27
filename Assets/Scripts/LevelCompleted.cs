@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class LevelCompleted : MonoBehaviour
@@ -8,7 +9,7 @@ public class LevelCompleted : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        //levelPassedCanvas.gameObject.SetActive(false);
+        levelPassedCanvas.gameObject.SetActive(false);
     }
 
     // Update is called once per frame
@@ -23,8 +24,14 @@ public class LevelCompleted : MonoBehaviour
             {
                 isLevelCompleted = true;
                 Debug.Log("Level Completed!");
-                //levelPassedCanvas.gameObject.SetActive(true);
+                StartCoroutine(activeCanvasBeforeDelay(1.5f));
             }
         }
+    }
+
+    public IEnumerator activeCanvasBeforeDelay(float delay)
+    {
+        yield return new WaitForSeconds(delay);
+        levelPassedCanvas.gameObject.SetActive(true);
     }
 }
