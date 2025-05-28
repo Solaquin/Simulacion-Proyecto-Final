@@ -10,17 +10,22 @@ public class Slingshot : MonoBehaviour
 
     public TrajectoryPreview preview;
     public GameObject point;
-    public FollowTarget followTarget;    
+    public FollowTarget followTarget;
+    public AudioClip audioLaunch;
+    public AudioClip audioReload;
+
 
     private Animator animator;
     private Vector2 dragStart, dragEnd;
     private GameObject currentFruitPrefab;
     private bool canLaunch = true;
+    private AudioSource audioSource;
 
 
     private void Start()
     {
         animator = GetComponent<Animator>();
+        audioSource = GetComponent<AudioSource>();
 
         currentFruitPrefab = levelHandler.GetRandomFruitPrefab(); // inicial
         levelHandler.SetFruitImage(currentFruitPrefab.GetComponent<SpriteRenderer>().sprite);
@@ -35,6 +40,7 @@ public class Slingshot : MonoBehaviour
         {
             dragStart = Camera.main.ScreenToWorldPoint(Input.mousePosition);
             animator.SetBool("isLaunching", true);
+            audioSource.PlayOneShot(audioReload);
         }
 
         if (Input.GetMouseButton(0))
@@ -58,7 +64,7 @@ public class Slingshot : MonoBehaviour
             preview.HideTrajectory();
             levelHandler.numOfFruitsLeft--;
             canLaunch = false;
-
+            audioSource.PlayOneShot(audioLaunch);
         }
     }
 

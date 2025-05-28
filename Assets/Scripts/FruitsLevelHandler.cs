@@ -11,20 +11,31 @@ public class FruitsLevelHandler : MonoBehaviour
     public bool isGameOver = false;
     public Canvas gameOverCanvas;
     public Image fruitImage;
+
+    public AudioClip gameOverSound;
+    private AudioSource audioSource;
+    bool clipSoundPlayed = false;
+
+    private LevelCompleted levelCompleted;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
+        levelCompleted = GetComponent<LevelCompleted>();
         gameOverCanvas.gameObject.SetActive(false);
         numOfFruitsLeft = maxNumOfFruits;
     }
 
     private void Update()
     {
-        if(numOfFruitsLeft <= 0)
+        if (numOfFruitsLeft <= 0)
         {
-            isGameOver = true;
-            StartCoroutine(activeCanvasBeforeDelay(1.5f));
-            Debug.Log("All fruits have been used.");
+            if(!levelCompleted.isLevelCompleted)
+            {
+                isGameOver = true;
+                StartCoroutine(activeCanvasBeforeDelay(3f));
+                Debug.Log("All fruits have been used.");
+            }
         }
     }
     public GameObject GetRandomFruitPrefab()
@@ -44,6 +55,11 @@ public class FruitsLevelHandler : MonoBehaviour
     public IEnumerator activeCanvasBeforeDelay(float delay)
     {
         yield return new WaitForSeconds(delay);
+        if (!clipSoundPlayed)
+        {
+            audioSource.PlayOneShot(gameOverSound);
+            clipSoundPlayed = true;
+        }
         gameOverCanvas.gameObject.SetActive(true);
     }
 

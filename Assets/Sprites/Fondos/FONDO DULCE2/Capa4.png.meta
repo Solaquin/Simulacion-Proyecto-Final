@@ -1,0 +1,3484 @@
+fileFormatVersion: 2
+guid: 27523ac5e1cfdea4899ffa4c7a1c2635
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2992848855295964800
+    second: Capa4_0
+  - first:
+      213: -784700247660313666
+    second: Capa4_1
+  - first:
+      213: -7899208326399241793
+    second: Capa4_2
+  - first:
+      213: 4790575789690582543
+    second: Capa4_3
+  - first:
+      213: 4224104885078463308
+    second: Capa4_4
+  - first:
+      213: -7308071492523437094
+    second: Capa4_5
+  - first:
+      213: -3049588692517880241
+    second: Capa4_6
+  - first:
+      213: 4184145577967248084
+    second: Capa4_7
+  - first:
+      213: -6912924093234374430
+    second: Capa4_8
+  - first:
+      213: -3328722923147329683
+    second: Capa4_9
+  - first:
+      213: -1586695252562829767
+    second: Capa4_10
+  - first:
+      213: -5660146001303227219
+    second: Capa4_11
+  - first:
+      213: 4449464344863776847
+    second: Capa4_12
+  - first:
+      213: 4531817977482124634
+    second: Capa4_13
+  - first:
+      213: 1067717088626274972
+    second: Capa4_14
+  - first:
+      213: 900576645586259008
+    second: Capa4_15
+  - first:
+      213: -3625559199279422423
+    second: Capa4_16
+  - first:
+      213: -3046844842636277007
+    second: Capa4_17
+  - first:
+      213: 7491754951027009236
+    second: Capa4_18
+  - first:
+      213: 1752031369350527208
+    second: Capa4_19
+  - first:
+      213: -5299857322755429008
+    second: Capa4_20
+  - first:
+      213: 7255431220974268631
+    second: Capa4_21
+  - first:
+      213: -1742009709083747297
+    second: Capa4_22
+  - first:
+      213: 1617639513474203634
+    second: Capa4_23
+  - first:
+      213: 5172233694904444399
+    second: Capa4_24
+  - first:
+      213: -817607279096802839
+    second: Capa4_25
+  - first:
+      213: -2534098293260302686
+    second: Capa4_26
+  - first:
+      213: 7852681079277036571
+    second: Capa4_27
+  - first:
+      213: -7737573601417550314
+    second: Capa4_28
+  - first:
+      213: 429575458956602159
+    second: Capa4_29
+  - first:
+      213: 3113384842108103833
+    second: Capa4_30
+  - first:
+      213: 1505342585275587727
+    second: Capa4_31
+  - first:
+      213: -5229192742207534610
+    second: Capa4_32
+  - first:
+      213: -7913013092059794088
+    second: Capa4_33
+  - first:
+      213: -3729016802825382273
+    second: Capa4_34
+  - first:
+      213: -7227828851405113958
+    second: Capa4_35
+  - first:
+      213: 7140878545092097730
+    second: Capa4_36
+  - first:
+      213: 5352144310625799743
+    second: Capa4_37
+  - first:
+      213: 1321397257502733730
+    second: Capa4_38
+  - first:
+      213: -5761284252496792397
+    second: Capa4_39
+  - first:
+      213: -4985892686074633776
+    second: Capa4_40
+  - first:
+      213: 8683985758827522877
+    second: Capa4_41
+  - first:
+      213: -7580639065624657055
+    second: Capa4_42
+  - first:
+      213: 8695670862642084394
+    second: Capa4_43
+  - first:
+      213: -1483814162206233884
+    second: Capa4_44
+  - first:
+      213: 5022156808315887318
+    second: Capa4_45
+  - first:
+      213: -6522450560676976119
+    second: Capa4_46
+  - first:
+      213: -8309021135488855935
+    second: Capa4_47
+  - first:
+      213: -4795884807463380141
+    second: Capa4_48
+  - first:
+      213: 6571278391155331583
+    second: Capa4_49
+  - first:
+      213: -746907936001499489
+    second: Capa4_50
+  - first:
+      213: -6315301168571475573
+    second: Capa4_51
+  - first:
+      213: -3679799158125057849
+    second: Capa4_52
+  - first:
+      213: 3824634000541812415
+    second: Capa4_53
+  - first:
+      213: 4936616664244766776
+    second: Capa4_54
+  - first:
+      213: 452042526771004261
+    second: Capa4_55
+  - first:
+      213: 949709757531900924
+    second: Capa4_56
+  - first:
+      213: -2426980598681330304
+    second: Capa4_57
+  - first:
+      213: -1032729524024159015
+    second: Capa4_58
+  - first:
+      213: 433502800478503246
+    second: Capa4_59
+  - first:
+      213: -5057924262733942567
+    second: Capa4_60
+  - first:
+      213: -8654654690149960812
+    second: Capa4_61
+  - first:
+      213: -944877669279095317
+    second: Capa4_62
+  - first:
+      213: -2377490449422598877
+    second: Capa4_63
+  - first:
+      213: -49839129580588759
+    second: Capa4_64
+  - first:
+      213: -1585278409690753588
+    second: Capa4_65
+  - first:
+      213: -5171787960199088680
+    second: Capa4_66
+  - first:
+      213: 8949769765414420465
+    second: Capa4_67
+  - first:
+      213: -5716278138486272559
+    second: Capa4_68
+  - first:
+      213: 8232814181849721769
+    second: Capa4_69
+  - first:
+      213: 2914033028979294925
+    second: Capa4_70
+  - first:
+      213: 8357334342790145789
+    second: Capa4_71
+  - first:
+      213: -4781964519578139686
+    second: Capa4_72
+  - first:
+      213: 1824971340944627603
+    second: Capa4_73
+  - first:
+      213: -4617348845768784474
+    second: Capa4_74
+  - first:
+      213: 6323713740975959698
+    second: Capa4_75
+  - first:
+      213: 2180208913205510302
+    second: Capa4_76
+  - first:
+      213: -1538582407157622614
+    second: Capa4_77
+  - first:
+      213: -2317717563980398095
+    second: Capa4_78
+  - first:
+      213: 5653618924100967948
+    second: Capa4_79
+  - first:
+      213: 3086156705059698352
+    second: Capa4_80
+  - first:
+      213: -2061487141583887993
+    second: Capa4_81
+  - first:
+      213: -8278463064295445373
+    second: Capa4_82
+  - first:
+      213: -2898896027828564067
+    second: Capa4_83
+  - first:
+      213: 145810031512644734
+    second: Capa4_84
+  - first:
+      213: -8622843923162784551
+    second: Capa4_85
+  - first:
+      213: -5345066852329123424
+    second: Capa4_86
+  - first:
+      213: 2274353076404251447
+    second: Capa4_87
+  - first:
+      213: 7727519629395610029
+    second: Capa4_88
+  - first:
+      213: -1816772406106989391
+    second: Capa4_89
+  - first:
+      213: 8345635713501246181
+    second: Capa4_90
+  - first:
+      213: -6642878962196714488
+    second: Capa4_91
+  - first:
+      213: -7616811369009493023
+    second: Capa4_92
+  - first:
+      213: -7984042400784759210
+    second: Capa4_93
+  - first:
+      213: 5731291379050627726
+    second: Capa4_94
+  - first:
+      213: 3917999357132176771
+    second: Capa4_95
+  - first:
+      213: 4668599268754449752
+    second: Capa4_96
+  - first:
+      213: 8279253080351213432
+    second: Capa4_97
+  - first:
+      213: 2527259471509628864
+    second: Capa4_98
+  - first:
+      213: -4658993309807066757
+    second: Capa4_99
+  - first:
+      213: -5107475813123840667
+    second: Capa4_100
+  - first:
+      213: -3683557066826158621
+    second: Capa4_101
+  - first:
+      213: -826640466176578915
+    second: Capa4_102
+  - first:
+      213: -4714842130022766018
+    second: Capa4_103
+  - first:
+      213: 983308283044205276
+    second: Capa4_104
+  - first:
+      213: 2668436349333433825
+    second: Capa4_105
+  - first:
+      213: -6864563967664458642
+    second: Capa4_106
+  - first:
+      213: -6537722462759886124
+    second: Capa4_107
+  - first:
+      213: 1013938685905483021
+    second: Capa4_108
+  - first:
+      213: -6541147068054295222
+    second: Capa4_109
+  - first:
+      213: -9046991781149240227
+    second: Capa4_110
+  - first:
+      213: 337290396175037683
+    second: Capa4_111
+  - first:
+      213: -5686401647677881508
+    second: Capa4_112
+  - first:
+      213: -4158458521706661229
+    second: Capa4_113
+  - first:
+      213: 4119894310464661398
+    second: Capa4_114
+  - first:
+      213: -1715077005866097749
+    second: Capa4_115
+  - first:
+      213: 8812765172210890120
+    second: Capa4_116
+  - first:
+      213: 8263828280273931174
+    second: Capa4_117
+  - first:
+      213: 4595580167929711916
+    second: Capa4_118
+  - first:
+      213: 1110802670980748620
+    second: Capa4_119
+  - first:
+      213: 3829257850617995828
+    second: Capa4_120
+  - first:
+      213: -5395511058180064615
+    second: Capa4_121
+  - first:
+      213: 631549768508917022
+    second: Capa4_122
+  - first:
+      213: -846750911178833382
+    second: Capa4_123
+  - first:
+      213: 4655832682860268689
+    second: Capa4_124
+  - first:
+      213: 7091625556232548068
+    second: Capa4_125
+  - first:
+      213: 7420701339977883031
+    second: Capa4_126
+  - first:
+      213: -6994665528295357916
+    second: Capa4_127
+  - first:
+      213: -2991111760446790778
+    second: Capa4_128
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Capa4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 444
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08946a9a2d34776d0800000000000000
+      internalID: -2992848855295964800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_1
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 339
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3cb03484f2c15f0800000000000000
+      internalID: -784700247660313666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_2
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 335
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb15a2201ef506290800000000000000
+      internalID: -7899208326399241793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_3
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 342
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06f7169c4b8b7240800000000000000
+      internalID: 4790575789690582543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_4
+      rect:
+        serializedVersion: 2
+        x: 1195
+        y: 155
+        width: 842
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43181143090f9a30800000000000000
+      internalID: 4224104885078463308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_5
+      rect:
+        serializedVersion: 2
+        x: 2065
+        y: 341
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad35bf682b3849a90800000000000000
+      internalID: -7308071492523437094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_6
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 334
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4e7c67dd3fada5d0800000000000000
+      internalID: -3049588692517880241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_7
+      rect:
+        serializedVersion: 2
+        x: 2133
+        y: 338
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2624f0c32111a30800000000000000
+      internalID: 4184145577967248084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_8
+      rect:
+        serializedVersion: 2
+        x: 2790
+        y: 0
+        width: 883
+        height: 461
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e89687d92c5010a0800000000000000
+      internalID: -6912924093234374430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_9
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 316
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f7a1243200ec1d0800000000000000
+      internalID: -3328722923147329683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_10
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 319
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e9130131deaf9e0800000000000000
+      internalID: -1586695252562829767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_11
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 316
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da43977533f1371b0800000000000000
+      internalID: -5660146001303227219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_12
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 319
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f402f545f3cafbd30800000000000000
+      internalID: 4449464344863776847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_13
+      rect:
+        serializedVersion: 2
+        x: 1052
+        y: 323
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d1d8e907044ee30800000000000000
+      internalID: 4531817977482124634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_14
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 321
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c92fe2cf80b41de00800000000000000
+      internalID: 1067717088626274972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_15
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 320
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c8e2d00bd7f7c00800000000000000
+      internalID: 900576645586259008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_16
+      rect:
+        serializedVersion: 2
+        x: 2172
+        y: 322
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924ecc60e1d6fadc0800000000000000
+      internalID: -3625559199279422423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_17
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 318
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa0fec22ce67b5d0800000000000000
+      internalID: -3046844842636277007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_18
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 315
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d62d385f6f08f760800000000000000
+      internalID: 7491754951027009236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_19
+      rect:
+        serializedVersion: 2
+        x: 2232
+        y: 318
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8ba7d6f37705810800000000000000
+      internalID: 1752031369350527208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_20
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 315
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07de8e448df1376b0800000000000000
+      internalID: -5299857322755429008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_21
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 295
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d0337a214870b460800000000000000
+      internalID: 7255431220974268631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_22
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 304
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1c18ce266323d7e0800000000000000
+      internalID: -1742009709083747297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_23
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 303
+        width: 47
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fff34f1192037610800000000000000
+      internalID: 1617639513474203634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_24
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 294
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe5e510542777c740800000000000000
+      internalID: 5172233694904444399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_25
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 289
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e159a3f28647a4f0800000000000000
+      internalID: -817607279096802839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_26
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 275
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6cb4c470315dcd0800000000000000
+      internalID: -2534098293260302686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_27
+      rect:
+        serializedVersion: 2
+        x: 2033
+        y: 274
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b142db816d35afc60800000000000000
+      internalID: 7852681079277036571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_28
+      rect:
+        serializedVersion: 2
+        x: 2080
+        y: 288
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61621101ecd9e9490800000000000000
+      internalID: -7737573601417550314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_29
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 278
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b655b9a9826f500800000000000000
+      internalID: 429575458956602159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_30
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 280
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c60fab407f43b20800000000000000
+      internalID: 3113384842108103833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_31
+      rect:
+        serializedVersion: 2
+        x: 2099
+        y: 279
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c9e9c0b1d04e410800000000000000
+      internalID: 1505342585275587727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_32
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 277
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee94baa08ec2e67b0800000000000000
+      internalID: -5229192742207534610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_33
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 259
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855b2c884845f2290800000000000000
+      internalID: -7913013092059794088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_34
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 259
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76512a99fedf3cc0800000000000000
+      internalID: -3729016802825382273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_35
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 248
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95bdae44f791bb90800000000000000
+      internalID: -7227828851405113958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_36
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 265
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c63c68e33f791360800000000000000
+      internalID: 7140878545092097730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_37
+      rect:
+        serializedVersion: 2
+        x: 2081
+        y: 264
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e8a75c4e2a64a40800000000000000
+      internalID: 5352144310625799743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_38
+      rect:
+        serializedVersion: 2
+        x: 2143
+        y: 258
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a530acfdcb865210800000000000000
+      internalID: 1321397257502733730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_39
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 245
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b470e73f7ecb00b0800000000000000
+      internalID: -5761284252496792397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_40
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 247
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1ad46b40d8ecab0800000000000000
+      internalID: -4985892686074633776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_41
+      rect:
+        serializedVersion: 2
+        x: 2184
+        y: 258
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3b2775b907b38870800000000000000
+      internalID: 8683985758827522877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_42
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 244
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1634efa0fe82cc690800000000000000
+      internalID: -7580639065624657055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_43
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 235
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2afe73f39a3da870800000000000000
+      internalID: 8695670862642084394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_44
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 239
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eae00d81ee686be0800000000000000
+      internalID: -1483814162206233884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_45
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 244
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6de5af5320942b540800000000000000
+      internalID: 5022156808315887318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_46
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 243
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90a2dc1c5c99b75a0800000000000000
+      internalID: -6522450560676976119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_47
+      rect:
+        serializedVersion: 2
+        x: 2076
+        y: 238
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18059f3ec4d60bc80800000000000000
+      internalID: -8309021135488855935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_48
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 234
+        width: 48
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35bd3736d28917db0800000000000000
+      internalID: -4795884807463380141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_49
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 189
+        width: 129
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1930171eed13b50800000000000000
+      internalID: 6571278391155331583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_50
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 225
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ed5b2803372a5f0800000000000000
+      internalID: -746907936001499489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_51
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 222
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8910bd0c0b8b58a0800000000000000
+      internalID: -6315301168571475573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_52
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 225
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8ac2f792abeecc0800000000000000
+      internalID: -3679799158125057849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_53
+      rect:
+        serializedVersion: 2
+        x: 1026
+        y: 219
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb60d261c54d31530800000000000000
+      internalID: 3824634000541812415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_54
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 231
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838459863b2628440800000000000000
+      internalID: 4936616664244766776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_55
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 208
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5634e87784af54600800000000000000
+      internalID: 452042526771004261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_56
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 207
+        width: 77
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb49612efb0e2d00800000000000000
+      internalID: 949709757531900924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_57
+      rect:
+        serializedVersion: 2
+        x: 2131
+        y: 230
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08d95d21102a15ed0800000000000000
+      internalID: -2426980598681330304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_58
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 218
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d45b7338f10ba1f0800000000000000
+      internalID: -1032729524024159015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_59
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 224
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4188af008c140600800000000000000
+      internalID: 433502800478503246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_60
+      rect:
+        serializedVersion: 2
+        x: 2308
+        y: 221
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0f9ea5ea4aec9b0800000000000000
+      internalID: -5057924262733942567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_61
+      rect:
+        serializedVersion: 2
+        x: 2335
+        y: 224
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49371f3e96d74e780800000000000000
+      internalID: -8654654690149960812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_62
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 188
+        width: 129
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5ab6614ce13e2f0800000000000000
+      internalID: -944877669279095317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_63
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 213
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d38416805710fd0800000000000000
+      internalID: -2377490449422598877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_64
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 212
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9213f61639fee4ff0800000000000000
+      internalID: -49839129580588759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_65
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 218
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc559408fa5fff9e0800000000000000
+      internalID: -1585278409690753588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_66
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 217
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d5f0b2604e1a38b0800000000000000
+      internalID: -5171787960199088680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_67
+      rect:
+        serializedVersion: 2
+        x: 2248
+        y: 211
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffbe090f28f33c70800000000000000
+      internalID: 8949769765414420465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_68
+      rect:
+        serializedVersion: 2
+        x: 2263
+        y: 212
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ddc136b153bba0b0800000000000000
+      internalID: -5716278138486272559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_69
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 198
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab63fa01e4d04270800000000000000
+      internalID: 8232814181849721769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_70
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 208
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc20114c999b07820800000000000000
+      internalID: 2914033028979294925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_71
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 207
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df6ed234e473bf370800000000000000
+      internalID: 8357334342790145789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_72
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 204
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3060afa9c03adb0800000000000000
+      internalID: -4781964519578139686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_73
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 203
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 397d546f3c9935910800000000000000
+      internalID: 1824971340944627603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_74
+      rect:
+        serializedVersion: 2
+        x: 2145
+        y: 206
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a544e340b1ebefb0800000000000000
+      internalID: -4617348845768784474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_75
+      rect:
+        serializedVersion: 2
+        x: 2182
+        y: 207
+        width: 21
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ee028942852c750800000000000000
+      internalID: 6323713740975959698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_76
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 197
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9041cf8478a14e10800000000000000
+      internalID: 2180208913205510302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_77
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 168
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa854b3d37bd5aae0800000000000000
+      internalID: -1538582407157622614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_78
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 185
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f1c345c720d5dfd0800000000000000
+      internalID: -2317717563980398095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_79
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 185
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ed6721570b57e40800000000000000
+      internalID: 5653618924100967948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_80
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 168
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6f54e0c2b34da20800000000000000
+      internalID: 3086156705059698352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_81
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 187
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7816bd0fd502463e0800000000000000
+      internalID: -2061487141583887993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_82
+      rect:
+        serializedVersion: 2
+        x: 1051
+        y: 192
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38c6a7644bdfc1d80800000000000000
+      internalID: -8278463064295445373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_83
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 186
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fcc74fb6d05c7d0800000000000000
+      internalID: -2898896027828564067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_84
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 185
+        width: 34
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7ceffc7375060200800000000000000
+      internalID: 145810031512644734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_85
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 191
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dc1f3e3321855880800000000000000
+      internalID: -8622843923162784551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_86
+      rect:
+        serializedVersion: 2
+        x: 2207
+        y: 186
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a11536640282d5b0800000000000000
+      internalID: -5345066852329123424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_87
+      rect:
+        serializedVersion: 2
+        x: 2229
+        y: 167
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b64eca210209f10800000000000000
+      internalID: 2274353076404251447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_88
+      rect:
+        serializedVersion: 2
+        x: 2303
+        y: 184
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da9cbf8292aad3b60800000000000000
+      internalID: 7727519629395610029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_89
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 184
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bcd2405f1789c6e0800000000000000
+      internalID: -1816772406106989391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_90
+      rect:
+        serializedVersion: 2
+        x: 2705
+        y: 167
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e23e00e677a1d370800000000000000
+      internalID: 8345635713501246181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_91
+      rect:
+        serializedVersion: 2
+        x: 3703
+        y: 166
+        width: 56
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80c695487c0cfc3a0800000000000000
+      internalID: -6642878962196714488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_92
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 158
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb480d5a66ab4690800000000000000
+      internalID: -7616811369009493023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_93
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 180
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656419ddcbbf23190800000000000000
+      internalID: -7984042400784759210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_94
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 141
+        width: 103
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e824290c423a98f40800000000000000
+      internalID: 5731291379050627726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_95
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 140
+        width: 103
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d721828a78f5630800000000000000
+      internalID: 3917999357132176771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_96
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 179
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855e1c4bc423ac040800000000000000
+      internalID: 4668599268754449752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_97
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 137
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87784ebafc0d5e270800000000000000
+      internalID: 8279253080351213432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_98
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 165
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7a29e6911a21320800000000000000
+      internalID: 2527259471509628864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_99
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 154
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b714706e44ee75fb0800000000000000
+      internalID: -4658993309807066757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_100
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 159
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565aadbfec99e19b0800000000000000
+      internalID: -5107475813123840667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_101
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 162
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed62f13d5061ecc0800000000000000
+      internalID: -3683557066826158621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_102
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 164
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ae49030ee2784f0800000000000000
+      internalID: -826640466176578915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_103
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 161
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a62f32014819eb0800000000000000
+      internalID: -4714842130022766018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_104
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 166
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd29c837ca965ad00800000000000000
+      internalID: 983308283044205276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_105
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 155
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed62c3c8b0380520800000000000000
+      internalID: 2668436349333433825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_106
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 166
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64f961017b2cb0a0800000000000000
+      internalID: -6864563967664458642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_107
+      rect:
+        serializedVersion: 2
+        x: 2079
+        y: 165
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d2ea17fe085545a0800000000000000
+      internalID: -6537722462759886124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_108
+      rect:
+        serializedVersion: 2
+        x: 2105
+        y: 154
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d053c6ddcdb321e00800000000000000
+      internalID: 1013938685905483021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_109
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 165
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d2909e56d2935a0800000000000000
+      internalID: -6541147068054295222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_110
+      rect:
+        serializedVersion: 2
+        x: 2196
+        y: 160
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5498b678e0a27280800000000000000
+      internalID: -9046991781149240227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_111
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 163
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4f92a04db4ea400800000000000000
+      internalID: 337290396175037683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_112
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 161
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c53c6fb44d7d511b0800000000000000
+      internalID: -5686401647677881508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_113
+      rect:
+        serializedVersion: 2
+        x: 2370
+        y: 158
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39a7a78c1003a46c0800000000000000
+      internalID: -4158458521706661229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_114
+      rect:
+        serializedVersion: 2
+        x: 2401
+        y: 157
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69726671c0ecc2930800000000000000
+      internalID: 4119894310464661398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_115
+      rect:
+        serializedVersion: 2
+        x: 2454
+        y: 153
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba329eecc82d238e0800000000000000
+      internalID: -1715077005866097749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_116
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 164
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885709a6b3b3d4a70800000000000000
+      internalID: 8812765172210890120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_117
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 136
+        width: 60
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab0e8a89040fa270800000000000000
+      internalID: 8263828280273931174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_118
+      rect:
+        serializedVersion: 2
+        x: 3800
+        y: 135
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2dc74670d7c6cf30800000000000000
+      internalID: 4595580167929711916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_119
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 0
+        width: 2144
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45dc5bd42d5a6f00800000000000000
+      internalID: 1110802670980748620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_120
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 149
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43226731ab1442530800000000000000
+      internalID: 3829257850617995828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_121
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 152
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a3c7b774b4f15b0800000000000000
+      internalID: -5395511058180064615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_122
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 151
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1544f91b27b3c800800000000000000
+      internalID: 631549768508917022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_123
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 148
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1282f5588cbf34f0800000000000000
+      internalID: -846750911178833382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_124
+      rect:
+        serializedVersion: 2
+        x: 3826
+        y: 128
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c4a8b4827dc9040800000000000000
+      internalID: 4655832682860268689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_125
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 114
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eea25fced38a6260800000000000000
+      internalID: 7091625556232548068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_126
+      rect:
+        serializedVersion: 2
+        x: 2680
+        y: 113
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79d95a95d80abf660800000000000000
+      internalID: 7420701339977883031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_127
+      rect:
+        serializedVersion: 2
+        x: 3773
+        y: 112
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4220947e2c4fdee90800000000000000
+      internalID: -6994665528295357916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Capa4_128
+      rect:
+        serializedVersion: 2
+        x: 3809
+        y: 112
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683631393bf6d76d0800000000000000
+      internalID: -2991111760446790778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Capa4_0: -2992848855295964800
+      Capa4_1: -784700247660313666
+      Capa4_10: -1586695252562829767
+      Capa4_100: -5107475813123840667
+      Capa4_101: -3683557066826158621
+      Capa4_102: -826640466176578915
+      Capa4_103: -4714842130022766018
+      Capa4_104: 983308283044205276
+      Capa4_105: 2668436349333433825
+      Capa4_106: -6864563967664458642
+      Capa4_107: -6537722462759886124
+      Capa4_108: 1013938685905483021
+      Capa4_109: -6541147068054295222
+      Capa4_11: -5660146001303227219
+      Capa4_110: -9046991781149240227
+      Capa4_111: 337290396175037683
+      Capa4_112: -5686401647677881508
+      Capa4_113: -4158458521706661229
+      Capa4_114: 4119894310464661398
+      Capa4_115: -1715077005866097749
+      Capa4_116: 8812765172210890120
+      Capa4_117: 8263828280273931174
+      Capa4_118: 4595580167929711916
+      Capa4_119: 1110802670980748620
+      Capa4_12: 4449464344863776847
+      Capa4_120: 3829257850617995828
+      Capa4_121: -5395511058180064615
+      Capa4_122: 631549768508917022
+      Capa4_123: -846750911178833382
+      Capa4_124: 4655832682860268689
+      Capa4_125: 7091625556232548068
+      Capa4_126: 7420701339977883031
+      Capa4_127: -6994665528295357916
+      Capa4_128: -2991111760446790778
+      Capa4_13: 4531817977482124634
+      Capa4_14: 1067717088626274972
+      Capa4_15: 900576645586259008
+      Capa4_16: -3625559199279422423
+      Capa4_17: -3046844842636277007
+      Capa4_18: 7491754951027009236
+      Capa4_19: 1752031369350527208
+      Capa4_2: -7899208326399241793
+      Capa4_20: -5299857322755429008
+      Capa4_21: 7255431220974268631
+      Capa4_22: -1742009709083747297
+      Capa4_23: 1617639513474203634
+      Capa4_24: 5172233694904444399
+      Capa4_25: -817607279096802839
+      Capa4_26: -2534098293260302686
+      Capa4_27: 7852681079277036571
+      Capa4_28: -7737573601417550314
+      Capa4_29: 429575458956602159
+      Capa4_3: 4790575789690582543
+      Capa4_30: 3113384842108103833
+      Capa4_31: 1505342585275587727
+      Capa4_32: -5229192742207534610
+      Capa4_33: -7913013092059794088
+      Capa4_34: -3729016802825382273
+      Capa4_35: -7227828851405113958
+      Capa4_36: 7140878545092097730
+      Capa4_37: 5352144310625799743
+      Capa4_38: 1321397257502733730
+      Capa4_39: -5761284252496792397
+      Capa4_4: 4224104885078463308
+      Capa4_40: -4985892686074633776
+      Capa4_41: 8683985758827522877
+      Capa4_42: -7580639065624657055
+      Capa4_43: 8695670862642084394
+      Capa4_44: -1483814162206233884
+      Capa4_45: 5022156808315887318
+      Capa4_46: -6522450560676976119
+      Capa4_47: -8309021135488855935
+      Capa4_48: -4795884807463380141
+      Capa4_49: 6571278391155331583
+      Capa4_5: -7308071492523437094
+      Capa4_50: -746907936001499489
+      Capa4_51: -6315301168571475573
+      Capa4_52: -3679799158125057849
+      Capa4_53: 3824634000541812415
+      Capa4_54: 4936616664244766776
+      Capa4_55: 452042526771004261
+      Capa4_56: 949709757531900924
+      Capa4_57: -2426980598681330304
+      Capa4_58: -1032729524024159015
+      Capa4_59: 433502800478503246
+      Capa4_6: -3049588692517880241
+      Capa4_60: -5057924262733942567
+      Capa4_61: -8654654690149960812
+      Capa4_62: -944877669279095317
+      Capa4_63: -2377490449422598877
+      Capa4_64: -49839129580588759
+      Capa4_65: -1585278409690753588
+      Capa4_66: -5171787960199088680
+      Capa4_67: 8949769765414420465
+      Capa4_68: -5716278138486272559
+      Capa4_69: 8232814181849721769
+      Capa4_7: 4184145577967248084
+      Capa4_70: 2914033028979294925
+      Capa4_71: 8357334342790145789
+      Capa4_72: -4781964519578139686
+      Capa4_73: 1824971340944627603
+      Capa4_74: -4617348845768784474
+      Capa4_75: 6323713740975959698
+      Capa4_76: 2180208913205510302
+      Capa4_77: -1538582407157622614
+      Capa4_78: -2317717563980398095
+      Capa4_79: 5653618924100967948
+      Capa4_8: -6912924093234374430
+      Capa4_80: 3086156705059698352
+      Capa4_81: -2061487141583887993
+      Capa4_82: -8278463064295445373
+      Capa4_83: -2898896027828564067
+      Capa4_84: 145810031512644734
+      Capa4_85: -8622843923162784551
+      Capa4_86: -5345066852329123424
+      Capa4_87: 2274353076404251447
+      Capa4_88: 7727519629395610029
+      Capa4_89: -1816772406106989391
+      Capa4_9: -3328722923147329683
+      Capa4_90: 8345635713501246181
+      Capa4_91: -6642878962196714488
+      Capa4_92: -7616811369009493023
+      Capa4_93: -7984042400784759210
+      Capa4_94: 5731291379050627726
+      Capa4_95: 3917999357132176771
+      Capa4_96: 4668599268754449752
+      Capa4_97: 8279253080351213432
+      Capa4_98: 2527259471509628864
+      Capa4_99: -4658993309807066757
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

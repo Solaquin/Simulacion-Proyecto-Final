@@ -63,8 +63,9 @@ public class MenuPause : MonoBehaviour
     public void Reiniciar()
     {
         Debug.Log("Reiniciar");
-        sceneManager.LoadSceneWithFade(SceneManager.GetActiveScene().name);
         Time.timeScale = 1f;
+        sceneManager.LoadSceneWithFade(SceneManager.GetActiveScene().name);
+        
     }
 
 

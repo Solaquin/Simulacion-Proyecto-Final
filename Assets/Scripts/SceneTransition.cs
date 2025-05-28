@@ -9,6 +9,7 @@ public class SceneTransition : MonoBehaviour
 
     public void LoadSceneWithFade(string sceneName)
     {
+        if (Time.timeScale == 0f) Time.timeScale = 1f;
         StartCoroutine(Transition(sceneName));
     }
 

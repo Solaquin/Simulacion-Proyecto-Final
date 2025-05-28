@@ -6,9 +6,14 @@ public class LevelCompleted : MonoBehaviour
     public bool isLevelCompleted = false;
     public Canvas levelPassedCanvas;
 
+    public AudioClip levelCompletedSound;
+    private AudioSource audioSource;
+    private bool clipSoundPlayed = false;
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        audioSource = GetComponent<AudioSource>();
         levelPassedCanvas.gameObject.SetActive(false);
     }
 
@@ -24,7 +29,7 @@ public class LevelCompleted : MonoBehaviour
             {
                 isLevelCompleted = true;
                 Debug.Log("Level Completed!");
-                StartCoroutine(activeCanvasBeforeDelay(1.5f));
+                StartCoroutine(activeCanvasBeforeDelay(3f));
             }
         }
     }
@@ -32,6 +37,11 @@ public class LevelCompleted : MonoBehaviour
     public IEnumerator activeCanvasBeforeDelay(float delay)
     {
         yield return new WaitForSeconds(delay);
+        if (!clipSoundPlayed)
+        {
+            audioSource.PlayOneShot(levelCompletedSound);
+            clipSoundPlayed = true;
+        }
         levelPassedCanvas.gameObject.SetActive(true);
     }
 }

@@ -7,8 +7,12 @@ public class FruitsBehaviour : MonoBehaviour
     private FollowTarget followTarget;
     private Slingshot slingshot;
 
+    private AudioSource audioSource;
+    public AudioClip audioScream;
+
     void Awake()
     {
+        audioSource = GetComponent<AudioSource>();
         followTarget = GameObject.FindGameObjectWithTag("MainCamera").GetComponent<FollowTarget>();
         slingshot = GameObject.FindGameObjectWithTag("Slingshot").GetComponent<Slingshot>();
         hitBox = GetComponent<HitBox>();
@@ -17,6 +21,7 @@ public class FruitsBehaviour : MonoBehaviour
     void OnEnable()
     {
         hitBox.OnCollisionEnterCustom += OnCustomCollision;
+        audioSource.PlayOneShot(audioScream);
     }
 
     void OnDisable()

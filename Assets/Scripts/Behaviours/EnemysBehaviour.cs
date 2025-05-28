@@ -1,5 +1,6 @@
 using System.Collections;
 using UnityEngine;
+using UnityEngine.Audio;
 
 public class EnemysBehaviour : MonoBehaviour
 {
@@ -7,9 +8,12 @@ public class EnemysBehaviour : MonoBehaviour
     public int maxHits = 2;
 
     private HitBox hitBox;
+    private AudioSource audioSource;
+    public AudioClip hitSound;
 
     void Awake()
     {
+        audioSource = GetComponent<AudioSource>();
         hitBox = GetComponent<HitBox>();
     }
 
@@ -27,11 +31,14 @@ public class EnemysBehaviour : MonoBehaviour
     {
         if (other.CompareTag("Fruits"))
         {
+            if (!audioSource.isPlaying)
+            {
+                audioSource.PlayOneShot(hitSound);
+            }
             numHits++;
             print(other.name + " hit " + gameObject.name + ", total hits: " + numHits);
             if (numHits < maxHits)
             {
-                //Añadir sonidos o instanciar particulas
                 return;
             }
             else

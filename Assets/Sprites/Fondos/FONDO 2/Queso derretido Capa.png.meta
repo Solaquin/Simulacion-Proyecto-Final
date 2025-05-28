@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 6467505feb9dd3044a5cb141568caa60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7270471755201332472
+    second: Queso derretido Capa_0
+  - first:
+      213: -5250831810753989264
+    second: Queso derretido Capa_1
+  - first:
+      213: 2555838812276481684
+    second: Queso derretido Capa_2
+  - first:
+      213: -8206213196443358843
+    second: Queso derretido Capa_3
+  - first:
+      213: -6072782657962515660
+    second: Queso derretido Capa_4
+  - first:
+      213: 2754966546133324068
+    second: Queso derretido Capa_5
+  - first:
+      213: -6166363605410077448
+    second: Queso derretido Capa_6
+  - first:
+      213: -4998594282776225494
+    second: Queso derretido Capa_7
+  - first:
+      213: -8305116929585260106
+    second: Queso derretido Capa_8
+  - first:
+      213: 2270201632178089543
+    second: Queso derretido Capa_9
+  - first:
+      213: -7121060385277014707
+    second: Queso derretido Capa_10
+  - first:
+      213: 8710071268372312315
+    second: Queso derretido Capa_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Queso derretido Capa_0
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 468
+        width: 361
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4494e6a87e5e460800000000000000
+      internalID: 7270471755201332472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 453
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075ffa8c94c4127b0800000000000000
+      internalID: -5250831810753989264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_2
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 453
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e55ecbbd9287320800000000000000
+      internalID: 2555838812276481684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_3
+      rect:
+        serializedVersion: 2
+        x: 1556
+        y: 451
+        width: 361
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 589eed2839cad1e80800000000000000
+      internalID: -8206213196443358843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_4
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 436
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433edf9f85429bba0800000000000000
+      internalID: -6072782657962515660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_5
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 436
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4219c5e2a7b9b3620800000000000000
+      internalID: 2754966546133324068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_6
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 214
+        width: 189
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4a2afb8fcac6aa0800000000000000
+      internalID: -6166363605410077448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_7
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 206
+        width: 7
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2913d6cbfc61aab0800000000000000
+      internalID: -4998594282776225494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_8
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 206
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b9dcf9a72c4ebc80800000000000000
+      internalID: -8305116929585260106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_9
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 14
+        width: 361
+        height: 443
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74eac7e3b50618f10800000000000000
+      internalID: 2270201632178089543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_10
+      rect:
+        serializedVersion: 2
+        x: 2686
+        y: 0
+        width: 10
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d057ffe49ec2d90800000000000000
+      internalID: -7121060385277014707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Queso derretido Capa_11
+      rect:
+        serializedVersion: 2
+        x: 2781
+        y: 0
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0faafaba360e870800000000000000
+      internalID: 8710071268372312315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Queso derretido Capa_0: 7270471755201332472
+      Queso derretido Capa_1: -5250831810753989264
+      Queso derretido Capa_10: -7121060385277014707
+      Queso derretido Capa_11: 8710071268372312315
+      Queso derretido Capa_2: 2555838812276481684
+      Queso derretido Capa_3: -8206213196443358843
+      Queso derretido Capa_4: -6072782657962515660
+      Queso derretido Capa_5: 2754966546133324068
+      Queso derretido Capa_6: -6166363605410077448
+      Queso derretido Capa_7: -4998594282776225494
+      Queso derretido Capa_8: -8305116929585260106
+      Queso derretido Capa_9: 2270201632178089543
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
